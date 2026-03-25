@@ -20,7 +20,6 @@ git clone https://github.com/yourusername/dental-intel.git
 cd dental-intel
 pip install -r requirements.txt
 cp .env.example .env
-# fill in your API keys in .env
 ```
 
 Requirements:
@@ -44,3 +43,8 @@ Python 3.11 · BeautifulSoup · Google Places API · Anthropic API · vanilla HT
 Yelp scraping works on public pages but can be inconsistent depending on how Yelp renders results in your region. Google Places review data is limited to the most recent 5 reviews per place by the API. The analysis quality scales with how many reviews are available.
 
 This is a portfolio resume project. Not affiliated with any dental practice or platform.
+
+## Sample Output
+
+<img width="1065" height="4092" alt="_C__Users_micha_Downloads_dental-intel_dental-intel_output_bright_now!_dental_ _orthodontics_-_phoenix_(camelback_rd)_intel html" src="https://github.com/user-attachments/assets/ab263bed-b79c-4620-bb82-80acefc0441d" />
+
