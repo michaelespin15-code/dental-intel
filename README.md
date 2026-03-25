@@ -46,5 +46,6 @@ This is a portfolio resume project. Not affiliated with any dental practice or p
 
 ## Sample Output
 
-<img width="1065" height="4092" alt="_C__Users_micha_Downloads_dental-intel_dental-intel_output_bright_now!_dental_ _orthodontics_-_phoenix_(camelback_rd)_intel html" src="https://github.com/user-attachments/assets/ab263bed-b79c-4620-bb82-80acefc0441d" />
+<img width="1065" height="4182" alt="_C__Users_micha_Downloads_dental-intel_dental-intel_output_bright_now!_dental_ _orthodontics_-_phoenix_(camelback_rd)_intel html (2)" src="https://github.com/user-attachments/assets/8671edcb-2ef9-4f16-b183-49fd2452c42a" />
+
 
